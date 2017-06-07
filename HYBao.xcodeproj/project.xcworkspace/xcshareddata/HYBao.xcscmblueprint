@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B4A51CA8D6ED7525C7FC97A97FE640EB7F38718D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "e88e7ddf-44c6-44d9-bda3-70cc007375f9++7378" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B4A51CA8D6ED7525C7FC97A97FE640EB7F38718D" : 0,
+    "e88e7ddf-44c6-44d9-bda3-70cc007375f9++7378" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6D57534B-DBD4-4A3B-8162-931D7B64C20D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B4A51CA8D6ED7525C7FC97A97FE640EB7F38718D" : "HYBao\/",
+    "e88e7ddf-44c6-44d9-bda3-70cc007375f9++7378" : "HYBao\/HYBao\/SMProgressHUD\/progresshud.bundle\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HYBao",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HYBao.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "192.168.100.104:xiaoyuting\/haiyoubao.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B4A51CA8D6ED7525C7FC97A97FE640EB7F38718D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/code.taobao.org\/svn\/SMProgressHUD",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "e88e7ddf-44c6-44d9-bda3-70cc007375f9++7378"
+    }
+  ]
+}
